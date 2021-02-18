@@ -1,0 +1,7 @@
+C:\Users\Jaspon\source\repos\Exercises\StringReversal\bin\Debug\StringReversal.exe.config
+C:\Users\Jaspon\source\repos\Exercises\StringReversal\bin\Debug\StringReversal.exe
+C:\Users\Jaspon\source\repos\Exercises\StringReversal\bin\Debug\StringReversal.pdb
+C:\Users\Jaspon\source\repos\Exercises\StringReversal\obj\Debug\StringReversal.csprojAssemblyReference.cache
+C:\Users\Jaspon\source\repos\Exercises\StringReversal\obj\Debug\StringReversal.csproj.CoreCompileInputs.cache
+C:\Users\Jaspon\source\repos\Exercises\StringReversal\obj\Debug\StringReversal.exe
+C:\Users\Jaspon\source\repos\Exercises\StringReversal\obj\Debug\StringReversal.pdb
